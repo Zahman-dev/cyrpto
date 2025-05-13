@@ -52,6 +52,7 @@
     "lucide-react": "^0.364.0",
     "next": "15.1.4",
     "next-themes": "^0.4.4",
+    "postcss": "^8.5.3",
     "react": "^18.2.0",
     "react-day-picker": "8.10.1",
     "react-dom": "^18.2.0",
@@ -60,6 +61,7 @@
     "recharts": "^2.12.4",
     "sonner": "^1.7.2",
     "tailwind-merge": "^2.6.0",
+    "tailwindcss": "^3.4.17",
     "tailwindcss-animate": "^1.0.7",
     "vaul": "^1.1.2",
     "zod": "^3.24.1"
@@ -73,8 +75,6 @@
     "@types/react-dom": "^18",
     "eslint": "^9",
     "eslint-config-next": "15.1.4",
-    "postcss": "^8.5.3",
-    "tailwindcss": "^3.4.17",
     "turbo": "^2.3.3",
     "typescript": "^5",
     "wrangler": "^3.102.0"
