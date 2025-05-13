@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "platforms": [
+      { "name": "Lido", "apr": 3.5 },
+      { "name": "Rocket Pool", "apr": 3.2 },
+      { "name": "Binance Staking", "apr": 3.0 }
+    ]
+  },
+  {
+    "name": "Solana",
+    "symbol": "SOL",
+    "platforms": [
+      { "name": "Marinade Finance", "apr": 5.5 },
+      { "name": "Jito", "apr": 5.8 },
+      { "name": "Binance Staking", "apr": 5.2 }
+    ]
+  },
+  {
+    "name": "Cardano",
+    "symbol": "ADA",
+    "platforms": [
+      { "name": "Binance Staking", "apr": 2.5 },
+      { "name": "Kraken Staking", "apr": 2.3 },
+      { "name": "Daedalus Wallet", "apr": 2.0 }
+    ]
+  },
+  {
+    "name": "Polkadot",
+    "symbol": "DOT",
+    "platforms": [
+      { "name": "Kraken Staking", "apr": 12.0 },
+      { "name": "Binance Staking", "apr": 11.5 },
+      { "name": "Fearless Wallet", "apr": 12.2 }
+    ]
+  },
+  {
+    "name": "Avalanche",
+    "symbol": "AVAX",
+    "platforms": [
+      { "name": "Binance Staking", "apr": 4.0 },
+      { "name": "Ledger Live", "apr": 3.8 },
+      { "name": "Core Wallet", "apr": 4.1 }
+    ]
+  }
+]
